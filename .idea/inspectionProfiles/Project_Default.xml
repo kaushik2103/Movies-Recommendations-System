@@ -1,0 +1,33 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="13">
+            <item index="0" class="java.lang.String" itemvalue="sentence_transformers" />
+            <item index="1" class="java.lang.String" itemvalue="faiss_cpu" />
+            <item index="2" class="java.lang.String" itemvalue="sentence-transformers" />
+            <item index="3" class="java.lang.String" itemvalue="tiktoken" />
+            <item index="4" class="java.lang.String" itemvalue="unstructured" />
+            <item index="5" class="java.lang.String" itemvalue="pinecone-client" />
+            <item index="6" class="java.lang.String" itemvalue="pypdf" />
+            <item index="7" class="java.lang.String" itemvalue="tensorflow-cpu" />
+            <item index="8" class="java.lang.String" itemvalue="tensorflow-gpu" />
+            <item index="9" class="java.lang.String" itemvalue="langchain-community" />
+            <item index="10" class="java.lang.String" itemvalue="langchain" />
+            <item index="11" class="java.lang.String" itemvalue="flask" />
+            <item index="12" class="java.lang.String" itemvalue="ctransformers" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
